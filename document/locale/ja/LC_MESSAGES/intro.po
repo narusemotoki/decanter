@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: decanter 0.1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-20 23:29\n"
+"POT-Creation-Date: 2013-05-29 09:30\n"
 "PO-Revision-Date: 2013-05-18 00:30\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -160,3 +160,25 @@ msgstr "もちろん、再度このコマンドを実行するとdecanterが起�
 #: ../../source/intro/tutorial01.rst:1
 msgid "HelloWorld"
 msgstr "HelloWorld"
+
+# 7c45ed68cbb04f92b6711991bbe8584e
+#: ../../source/intro/tutorial02.rst:6
+msgid "Simple ToDo application"
+msgstr ""
+
+# bcbd5394132c48de93ea0ad06c51a18b
+#: ../../source/intro/tutorial02.rst:8
+msgid ""
+"Let's experience development in Decanter to develop a simple ToDo "
+"application."
+msgstr ""
+
+# d04b62abb75d46af8bcb315b7270221d
+#: ../../source/intro/tutorial02.rst:11
+msgid "Preparation of development"
+msgstr ""
+
+# 0207588792044f46be159536f1ad0de0
+#: ../../source/intro/tutorial02.rst:1
+msgid "Sample ToDo application"
+msgstr ""
